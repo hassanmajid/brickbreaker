@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{F5071018-16A2-B2EB-3DD6-003204DEA300}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/scripts/ball.cs" Line="26" Column="1" />
+      <File FileName="Assets/scripts/player.cs" />
+      <File FileName="Assets/scripts/brick.cs" />
+      <File FileName="Assets/scripts/GameManager.cs" Line="54" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BallGame" expanded="True">
+            <Node name="Assets" expanded="True" selected="True">
+              <Node name="scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c301dfce-28b3-41fc-80e9-5c1d5129e8f7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
